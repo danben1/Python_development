@@ -17,3 +17,7 @@ What I achieved:
 - Installed Pandas and Matplotlib into conda environment
 - Imported Pandas and Matplotlib into notebook and used them to load in stock data from a CSV and maniuplate that data.
 
+06/11/2023 - Finishing first basic trading model
+What i achieved:
+- Produced a model that buys stock when the 20-day MA is higher then the 60-day MA
+- calculated return and displayed onto graph using matplotlib library to customise the output
