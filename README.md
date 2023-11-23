@@ -21,3 +21,10 @@ What I achieved:
 What i achieved:
 - Produced a model that buys stock when the 20-day MA is higher then the 60-day MA
 - calculated return and displayed onto graph using matplotlib library to customise the output
+
+08/11/2023 - Building analysis capabilities and creating first API call
+what i achieved:
+- using numpy library to retrieve mean and standard deviation of returns of historical stock data
+- created new python env to work in
+- Succesfully made first API call to twelvefinance API to retrieve historical data of stocks and extrcat into panddas dataframe
+- Securely stored API key in file using .gitignore
